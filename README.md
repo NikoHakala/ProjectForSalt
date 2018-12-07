@@ -24,6 +24,9 @@ http://terokarvinen.com/2018/control-windows-with-salt sivulta löytää ohjeita
 
 Kuten myös https://nikohakala646432229.wordpress.com/2018/11/26/palvelinten-hallinta-h5/
 
+# Yhteenveto
+
+Sain 5 orjaa (2 windows 3 linux) helposti olisi voinut tehdä lisääkin.
 
 Copypastetukseen
 

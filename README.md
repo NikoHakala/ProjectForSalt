@@ -22,9 +22,10 @@ Windowsille firefox, inkscape, Winspc, vlc, steam, git, putty ja chocolatey joll
 
 http://terokarvinen.com/2018/control-windows-with-salt sivulta löytää ohjeita windowsin hallintaan saltilla
 
-
+Kuten myös https://nikohakala646432229.wordpress.com/2018/11/26/palvelinten-hallinta-h5/
 
 
 Copypastetukseen
 
 	sudo apt-get update && sudo apt-get install -y salt-minion && echo -e "master: 172.28.171.242\nid: "
+	sudo systemctl restart salt-minion

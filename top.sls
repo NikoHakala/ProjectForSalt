@@ -1,8 +1,14 @@
 base:
+  'SaltMaster':
+    - ufwMaster
+    - ssh
+
   'W-*':
-    - win
+    - windesktop
+
   'L-*':
     - ufw
+    - ssh
     - apache
     - skel
     - mariadb

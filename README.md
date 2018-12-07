@@ -5,7 +5,7 @@ Kurssin kotisivu: http://terokarvinen.com/2018/aikataulu--palvelinten-hallinta-i
 Linux modulin ohje: https://github.com/NikoHakala/H6salt
 
 
-#Linux
+# Linux
 
 LAMP stackin asennus ja konffaus linuxille + ufw ja ssh
 Erikseen vielä ssh ja ufw masterille
@@ -26,4 +26,5 @@ http://terokarvinen.com/2018/control-windows-with-salt sivulta löytää ohjeita
 
 
 Copypastetukseen
+
 	sudo apt-get update && sudo apt-get install -y salt-minion && echo -e "master: 172.28.171.242\nid: "

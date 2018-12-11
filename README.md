@@ -8,6 +8,7 @@ Linux modulin ohje: https://github.com/NikoHakala/H6salt
 # Linux
 
 https://nikohakala646432229.wordpress.com/2018/12/05/h6-palvelinten-hallinta/ Ohjeita
+
 LAMP stackin asennus ja konffaus linuxille + ufw ja ssh
 Erikseen vielä ssh ja ufw masterille
 

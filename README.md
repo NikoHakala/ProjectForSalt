@@ -30,7 +30,7 @@ Kuten myös https://nikohakala646432229.wordpress.com/2018/11/26/palvelinten-hal
 
 Sain 5 orjaa (2 windows 3 linux) helposti olisi voinut tehdä lisääkin.
 
-Dont mind me xubuntu@172.28.171.133
+
 Copypastetukseen
 
 	sudo apt-get update && sudo apt-get install -y salt-minion && echo -e "master: 172.28.171.242\nid: "
